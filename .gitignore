@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# But do not ignore this directory
+!nvim/
+
