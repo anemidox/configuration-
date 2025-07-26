@@ -1,6 +1,10 @@
 # Ignore everything
 *
 
-# But do not ignore this directory
+# Except this .gitignore file
+!.gitignore
+
+# Except the nvim directory and everything inside it
 !nvim/
+!nvim/**
 
